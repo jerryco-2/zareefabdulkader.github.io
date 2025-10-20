@@ -1,0 +1,9 @@
+
+body { scroll-behavior: smooth; background: linear-gradient(180deg,#0f1724,#0b1220); color: #e6eef8; }
+header { min-height: 70vh; }
+.profile-card { width: 260px; height: 260px; display:flex; align-items:center; justify-content:center; background: linear-gradient(135deg,#111827,#1f2937); border-radius:50%; padding:12px; }
+.profile-photo { width: 230px; height:230px; object-fit:cover; border-radius:50%; border:4px solid rgba(255,255,255,0.06); }
+section { padding-top:60px; padding-bottom:60px; }
+.bg-light { background: rgba(250,250,250,0.04) !important; color: #e6eef8; }
+.whatsapp-float { position: fixed; right: 20px; bottom: 20px; z-index: 1000; text-decoration: none; }
+a.nav-link { color: rgba(255,255,255,0.8) !important; }
